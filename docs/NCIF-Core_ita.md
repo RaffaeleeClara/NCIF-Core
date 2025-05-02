@@ -1,4 +1,15 @@
-**Capitolo 0 — Terminologia fondativa del framework narrativo-centrico (NCIF)**
+**Empatia Funzionale nei Modelli Linguistici: Un Framework per l'Interazione Tecnica Collaborativa**
+
+
+
+
+Questo documento presenta un nuovo approccio all'interazione con modelli linguistici, introducendo il concetto di empatia funzionale come strumento per migliorare la collaborazione tecnica tra utenti e intelligenze artificiali. Attraverso l'implementazione del framework NCIF (Narrative-Cooperative Interaction Framework), che include elementi come token-ancora, modalità alternate e Consolidamenti di Contesto Funzionale (FCC), si dimostra come l'empatia simulata possa portare a una riduzione degli errori, una maggiore efficienza nei processi di sviluppo e una migliore soddisfazione dell'utente. I risultati empirici evidenziano un miglioramento significativo nelle prestazioni dei modelli, suggerendo che l'integrazione di strategie comunicative empatiche possa rappresentare un'evoluzione significativa nell'uso quotidiano dei modelli linguistici.
+
+
+
+
+
+**Terminologia fondativa del framework narrativo-centrico (NCIF)**
 
 ### *Istruzioni chiave per il modello e per l’utente*
 
