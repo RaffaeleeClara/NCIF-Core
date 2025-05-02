@@ -3,7 +3,7 @@
 
 This document introduces a novel approach to interacting with language models, presenting the concept of functional empathy as a tool to enhance technical collaboration between users and artificial intelligences. By implementing the NCIF (Narrative-Cooperative Interaction Framework), which encompasses elements such as anchor tokens, alternate modes, and Functional Context Consolidations (FCC), it is demonstrated that simulated empathy can lead to error reduction, increased efficiency in development processes, and improved user satisfaction. Empirical results highlight a significant improvement in model performance, suggesting that integrating empathetic communication strategies may represent a significant evolution in the daily use of language models.
 
-
+Raffaele Antonio Spezia
 
 **Introduction to the Problem**
 
